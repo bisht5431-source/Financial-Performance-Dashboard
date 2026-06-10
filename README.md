@@ -24,11 +24,11 @@ The dashboard connects a **Customers dimension table** and a **Finance Transacti
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Overview Analysis
-<img width="1360" height="711" alt="Screenshot 2026-06-10 115631" src="https://github.com/user-attachments/assets/6d1e2d58-7db2-422b-8ee4-87e2a42142dd" />
+<img width="1369" height="718" alt="Screenshot 2026-06-10 122158" src="https://github.com/user-attachments/assets/20d0c827-3b05-4a42-93d2-ef9761518d67" />
 
 
 ### Page 2 — Transactions (Drill-Down)
-<img width="1360" height="702" alt="Screenshot 2026-06-10 115710" src="https://github.com/user-attachments/assets/46043fe0-392a-4f37-b279-e9aec81e7fe5" />
+<img width="1371" height="720" alt="Screenshot 2026-06-10 122220" src="https://github.com/user-attachments/assets/40eb1ced-4eed-4993-b5a9-8a87bd60cf18" />
 
 
 > 📁 Drop your screenshots into an `assets/` folder and rename them to match the paths above.
